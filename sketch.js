@@ -301,8 +301,8 @@ function promptMouseClick() {
   textSize(32);
   textAlign(CENTER, TOP);
   var x = BLOCK_SIZE * 5;
-  text('CLICK SCREEN', x, BLOCK_SIZE * 9);
-  text('TO PLAY', x, BLOCK_SIZE * 13);
+  text('CLICK SCREEN', x, BLOCK_SIZE * 10);
+  text('TO PLAY', x, BLOCK_SIZE * 12);
 }
 
 function mouseClicked() {
