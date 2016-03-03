@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Google Sites Gadget -->
+<Module>
+    <ModulePrefs title="Physigeh" height="480">
+        <Require feature="dynamic-height" />
+    </ModulePrefs>
+    <Content type="html">
+        <![CDATA[
+        <audio id="bgm"><source src="//sites.google.com/site/physigeh/assets/Korobeiniki.mp3" /></audio>
+        <audio id="deletionSound"><source src="//sites.google.com/site/physigeh/assets/spell1_0.mp3" /></audio>
+        <audio id="gameOverSound"><source src="//sites.google.com/site/physigeh/assets/qubodup-PowerDrain.mp3" /></audio>
+        <script src="//sites.google.com/site/physigeh/libraries/p5.min.js"></script>
+        <script src="//sites.google.com/site/physigeh/libraries/p5.dom.min.js"></script>
+        <script src="//sites.google.com/site/physigeh/libraries/box2d.min.js"></script>
+        <script src="//sites.google.com/site/physigeh/utility.js"></script>
+        <script src="//sites.google.com/site/physigeh/sketch.js"></script>
+        ]]>
+    </Content>
+</Module>
