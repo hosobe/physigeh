@@ -22,7 +22,7 @@ Enjoy!
 
 - [box2d.min.js](https://github.com/flyover/box2d.js/tree/master/Box2D)
 
-- [Korobeiniki.mp3](https://commons.wikimedia.org/wiki/File:Korobeiniki.mid)
+- [Korobeiniki.mp3](https://commons.wikimedia.org/wiki/File%3AKorobeiniki.mid)
   (converted from MID with GarageBand)
 
 - [spell1_0.mp3](http://opengameart.org/content/spell-1)
