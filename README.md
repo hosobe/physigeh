@@ -18,18 +18,25 @@ Enjoy!
 ## Required Libraries and Assets
 
 - [p5.min.js](http://p5js.org/) and
-  [p5.dom.min.js](http://p5js.org/reference/#/libraries/p5.dom)
+  [p5.dom.min.js](http://p5js.org/reference/#/libraries/p5.dom):
+  authored by Lauren McCarthy and her collaborators
 
-- [box2d.min.js](https://github.com/flyover/box2d.js/tree/master/Box2D)
+- [box2d.min.js](https://github.com/flyover/box2d.js/tree/master/Box2D):
+  authored by Erin Catto and
+  ported to JavaScript by Isaac Burns
 
-- [Korobeiniki.mp3](https://commons.wikimedia.org/wiki/File%3AKorobeiniki.mid)
-  (converted from MID with GarageBand)
+- [Korobeiniki.mp3](https://commons.wikimedia.org/wiki/File%3AKorobeiniki.mid):
+  based on a Russian folk song,
+  authored by Kyrgyzstan, and
+  converted from MID by Hosobe with GarageBand
 
-- [spell1_0.mp3](http://opengameart.org/content/spell-1)
-  (converted from WAV with FFmpeg)
+- [spell1_0.mp3](http://opengameart.org/content/spell-1):
+  authored by Bart Kelsey and
+  converted from WAV by Hosobe with FFmpeg
 
-- [qubodup-PowerDrain.mp3](http://opengameart.org/content/energy-drain)
-  (converted from FLAC with FFmpeg)
+- [qubodup-PowerDrain.mp3](http://opengameart.org/content/energy-drain):
+  authored by Iwan Gabovitch and
+  converted from FLAC by Hosobe with FFmpeg
 
 ## Author
 
