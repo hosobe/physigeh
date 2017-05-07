@@ -2,7 +2,7 @@
 
 ![Physigeh's screenshot](screen.png)
 
-[Physigeh](http://www.physigeh.org/) is a physics-based action puzzle
+[Physigeh](http://physigeh.hosobe.org/) is a physics-based action puzzle
 game.  You can control a falling-down tetromino piece and stack it on
 others (as is often the case).  In addition, tetromino pieces follow
 the physical laws.
@@ -12,7 +12,7 @@ and [Box2D](http://box2d.org/) libraries.
 
 ## Play It
 
-You can play [Physigeh](http://www.physigeh.org/) in your Web browser.
+You can play [Physigeh](http://physigeh.hosobe.org/) in your Web browser.
 Enjoy!
 
 ## Required Libraries and Assets
@@ -46,7 +46,7 @@ Enjoy!
 
 GNU General Public License, version 2 (GPL v2)
 
-Copyright (C) 2016 Hiroshi HOSOBE
+Copyright (C) 2016-2017 Hiroshi HOSOBE
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
